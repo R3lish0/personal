@@ -1,1 +1,1 @@
-bingus bungus
+This is a readme that I made for this github repository
